@@ -1,1 +1,0 @@
-Texlab Premium v6\nHalaman: index.html, katalog.html, portofolio.html, materials.html, testimoni.html.\nSemua halaman memiliki navigasi konsisten, termasuk di layar mobile.\nBahan dan warna selain jas lab adalah referensi umum, perlu konfirmasi stok.\nHarga tidak ditampilkan.\nUnggah seluruh file HTML dan folder assets ke root repository GitHub.\n
